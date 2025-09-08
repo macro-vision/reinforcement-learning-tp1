@@ -25,8 +25,8 @@ jupyter-lab
 ## Tâches
 
 1. Complétez le notebook `sujet.ipynb` (10 points)
-2. Factorisez votre code sous la forme d'une librairie `multiarmbandits` pour résoudre ce problème (5 points)
+2. Factorisez votre code sous la forme d'une librairie `multiarmbandits` en utilisant `ruff`, `ty` et `uv` pour résoudre ce problème (5 points)
 3. Rédigez des test-unitaires avec `pytest` et vérifiez à partir de fixtures que vos algorithmes donnnent les bons résultats (5 points)
-4. Mettez à jour votre repo sur Github Classrooms.
+4. Remplir le google form et y joindre les fichiers au format ZIP
 
 
