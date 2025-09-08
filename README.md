@@ -1,7 +1,8 @@
 # TP1 Reinforcement Learning : le problème du bandit-manchot multi-bras
 
 
-Cours : https://onedrive.live.com/edit.aspx?resid=A10179FC90273B45!108349&cid=a10179fc90273b45&CT=1693756235024&OR=ItemsView
+Slides : https://1drv.ms/p/c/a10179fc90273b45/EUU7J5D8eQEggKE9pwEAAAABvUrefnadgIpraTDXOSeqTQ?e=JPAq2A
+
 
 ## Installation
 
